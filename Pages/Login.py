@@ -1,2 +1,4 @@
 class Login:
-    pass
+    def Login():
+        print("Login")
+        pass
